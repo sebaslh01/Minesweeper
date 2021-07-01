@@ -1,0 +1,78 @@
+[09/05/20 - 13:42:33]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong format for a score! Less fields than expected!
+[09/05/20 - 13:43:21]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong format for a score! Less fields than expected!
+[09/05/20 - 13:48:00]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong format for a score! Less fields than expected!
+[09/05/20 - 13:49:01]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong format for a score! Less fields than expected!
+[09/05/20 - 13:50:52]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong format for a score! Less fields than expected!
+[09/05/20 - 13:50:52]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong format for a score! Less fields than expected!
+[09/05/20 - 13:51:51]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong format for a score! Less fields than expected!
+[09/05/20 - 13:51:51]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong format for a score! Less fields than expected!
+[09/05/20 - 13:51:51]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong format for a score! Less fields than expected!
+[09/05/20 - 13:52:16]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong format for a score! Less fields than expected!
+[09/05/20 - 13:52:16]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong format for a score! Less fields than expected!
+[09/05/20 - 13:52:16]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong format for a score! Less fields than expected!
+[09/05/20 - 13:53:25]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong date format for a score!! Score discarded!! 
+[09/05/20 - 13:59:02]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong date format for a score!! Score discarded!! 
+[09/05/20 - 13:59:02]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong format for a score! Less fields than expected!
+[09/05/20 - 13:59:02]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong date format for a score!! Score discarded!! 
+[09/05/20 - 13:59:02]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong format for a score! Less fields than expected!
+[09/05/20 - 13:59:02]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong format for a score! Less fields than expected!
+[09/05/20 - 13:59:40]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong date format for a score!! Score discarded!! 
+[09/05/20 - 13:59:40]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong format for a score! Less fields than expected!
+[09/05/20 - 13:59:40]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong date format for a score!! Score discarded!! 
+[09/05/20 - 13:59:40]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong level format for a score!! Score discarded!!
+[09/05/20 - 13:59:40]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong format for a score! Less fields than expected!
+[09/05/20 - 13:59:40]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong format for a score! Less fields than expected!
+[09/05/20 - 14:00:05]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong date format for a score!! Score discarded!! 
+[09/05/20 - 14:00:05]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong format for a score! Less fields than expected!
+[09/05/20 - 14:00:05]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong date format for a score!! Score discarded!! 
+[09/05/20 - 14:00:05]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong level format for a score!! Score discarded!!
+[09/05/20 - 14:00:05]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong format for a score! Less fields than expected!
+[09/05/20 - 14:00:05]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong result format for a score!! Score discarded!! 
+[09/05/20 - 14:00:05]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong format for a score! Less fields than expected!
+[09/05/20 - 14:00:14]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong date format for a score!! Score discarded!! 
+[09/05/20 - 14:00:14]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong format for a score! Less fields than expected!
+[09/05/20 - 14:00:14]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong date format for a score!! Score discarded!! 
+[09/05/20 - 14:00:14]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong level format for a score!! Score discarded!!
+[09/05/20 - 14:00:14]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong format for a score! Less fields than expected!
+[09/05/20 - 14:00:14]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong result format for a score!! Score discarded!! 
+[09/05/20 - 14:00:14]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong format for a score! Less fields than expected!
+[09/05/20 - 14:11:44]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong date format for a score!! Score discarded!! 
+[09/05/20 - 14:11:44]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong format for a score! Less fields than expected!
+[09/05/20 - 14:11:44]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong date format for a score!! Score discarded!! 
+[09/05/20 - 14:11:44]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong result format for a score!! Score discarded!! 
+[09/05/20 - 14:11:44]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong level format for a score!! Score discarded!!
+[09/05/20 - 14:11:44]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong format for a score! Less fields than expected!
+[09/05/20 - 14:11:44]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong result format for a score!! Score discarded!! 
+[09/05/20 - 14:11:44]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong format for a score! Less fields than expected!
+[09/05/20 - 15:44:39]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong date format for a score!! Score discarded!! 
+[09/05/20 - 15:44:39]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong format for a score! Less fields than expected!
+[09/05/20 - 15:44:39]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong date format for a score!! Score discarded!! 
+[09/05/20 - 15:44:39]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong result format for a score!! Score discarded!! 
+[09/05/20 - 15:44:39]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong level format for a score!! Score discarded!!
+[09/05/20 - 15:44:39]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong format for a score! Less fields than expected!
+[09/05/20 - 15:44:39]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong result format for a score!! Score discarded!! 
+[09/05/20 - 15:44:39]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong format for a score! Less fields than expected!
+[09/05/20 - 15:48:33]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong date format for a score!! Score discarded!! 
+[09/05/20 - 15:48:33]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong format for a score! Less fields than expected!
+[09/05/20 - 15:48:33]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong date format for a score!! Score discarded!! 
+[09/05/20 - 15:48:33]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong result format for a score!! Score discarded!! 
+[09/05/20 - 15:48:33]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong level format for a score!! Score discarded!!
+[09/05/20 - 15:48:33]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong format for a score! Less fields than expected!
+[09/05/20 - 15:48:33]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong result format for a score!! Score discarded!! 
+[09/05/20 - 15:48:33]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong format for a score! Less fields than expected!
+[09/05/20 - 22:59:18]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException:  cannot be empty/null
+[09/05/20 - 22:59:18]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong format for a score! Less fields than expected!
+[09/05/20 - 22:59:18]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Unparseable date: "08-05-20 18:00:01"
+[09/05/20 - 22:59:18]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong result format for a score!! Score discarded!! 
+[09/05/20 - 22:59:18]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong level format for a score!! Score discarded!!
+[09/05/20 - 22:59:18]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong format for a score! Less fields than expected!
+[09/05/20 - 22:59:18]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong result format for a score!! Score discarded!! 
+[09/05/20 - 22:59:18]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong format for a score! Less fields than expected!
+[09/05/20 - 23:13:34]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException:  cannot be empty/null
+[09/05/20 - 23:13:34]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong format for a score! Less fields than expected!
+[09/05/20 - 23:13:34]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Unparseable date: "08-05-20 18:00:01"
+[09/05/20 - 23:13:34]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong result format for a score!! Score discarded!! 
+[09/05/20 - 23:13:34]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong level format for a score!! Score discarded!!
+[09/05/20 - 23:13:34]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong format for a score! Less fields than expected!
+[09/05/20 - 23:13:34]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong result format for a score!! Score discarded!! 
+[09/05/20 - 23:13:34]: uo.mp.minesweeper.util.exceptions.InvalidLineFormatException: Wrong format for a score! Less fields than expected!
