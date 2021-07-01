@@ -1,0 +1,2 @@
+[08/05/20 - 23:52:47]: java.lang.IllegalArgumentException: X and Y cannot be less than 0 nor greater than or equal to this.board.length
+[08/05/20 - 23:54:13]: java.lang.IllegalArgumentException: X and Y cannot be less than 0 nor greater thanor equal to this.board.length
